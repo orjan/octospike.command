@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>routedebugger</id>
+    <id>octospike-migrator</id>
     <version>1.0.0</version>
-    <authors>Jay Hamlin</authors>
+    <authors>Örjan Sjöholm</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Route Debugger is a little utility I wrote...</description>
+    <description>Simple command line program saying hello!</description>
   </metadata>
   <files>
     <file src="bin\Release\*.*" target="lib" />
